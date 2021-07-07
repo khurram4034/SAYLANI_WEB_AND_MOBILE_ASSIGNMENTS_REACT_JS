@@ -1,0 +1,15 @@
+.heroImage {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    width: 100%;
+}
+
+.heroImage__left {
+    width:100%
+}
+
+.heroImage__left > img {
+    width: 100%;
+
+}
